@@ -55,7 +55,7 @@ nav ul li a:emparelhar {
 . . .herói {
  imagem de fundo: url('https://via.placeholder.com/1600x800');
  tamanho de fundo: capa;
- cor: pré;
+ cor: preto;
  texto-alinhar: centro;
  preenchimento: 80px 0;
 }
