@@ -55,7 +55,7 @@ nav ul li a:emparelhar {
 . . .herói {
  imagem de fundo: url('https://via.placeholder.com/1600x800');
  tamanho de fundo: capa;
- cor: preto;
+ cor: branco;
  texto-alinhar: centro;
  preenchimento: 80px 0;
 }
@@ -79,12 +79,12 @@ nav ul li a:emparelhar {
   fonte-tamanho: 1.2rem;
 }
 
-. .herói.btn:pairar {
+. . .herói.btn:emparelhar {
   fundo-cor: #c0392b;
 }
 
 /* Seções Gerais */
-. .seção {
+. . .seção {
   preenchimento: 60px 0;
   text-align: center;
 }
